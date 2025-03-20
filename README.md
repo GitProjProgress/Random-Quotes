@@ -8,9 +8,12 @@
 
 - **Copy Quote to Clipboard**
     ![copy quote](https://github.com/GitProjProgress/POW/blob/main/random-quotes/copy.JPG?raw=true)
+
 - **Share** Quote on X (formerly twitter)
     ![share quote](https://github.com/GitProjProgress/POW/blob/main/random-quotes/share.JPG?raw=true)
+
 - **Export** - Download Quote as Image
     ![downloaded image](https://github.com/GitProjProgress/POW/blob/main/random-quotes/download.JPG?raw=true)
+    
 - **Responsive**
     ![Responsive image](https://github.com/GitProjProgress/POW/blob/main/random-quotes/responsive.JPG?raw=true)
