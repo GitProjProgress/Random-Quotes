@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Quotes</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./index.js" defer></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- actions -->
+        <div class="actions">
+            <span class="tooltip">Copied</span>
+            <button class="new-quote">New Quote</button>
+            <abbr title="Copy Quote"><img src="./assets/copy.svg" class="copy icon"></abbr>
+            <abbr title="Share on X">
+                <div class="share">
+                    <img src="./assets/share.svg" class="share-arrow icon">
+                    <img src="./assets/icons-x.svg" class="X icon">
+                </div>
+            </abbr>
+            <abbr title="Download Quote"><img src="./assets/download.svg" class="download icon"></abbr>
+        </div>
+
+        <!-- Quote Container -->
+        <div class="container">
+            <div class="overlay"></div>
+            <q data-quote>There is only one boss. The customer. And he can fire everybody in the company from the
+                chairman on down, simply by spending his money somewhere else.</q>
+            <cite data-author>Sam Walton</cite>
+        </div>
+    </div>
+</body>
+
+</html>
